@@ -1,0 +1,21 @@
+.home-body {
+  //   border: 1px dashed black;
+  padding: 0 12%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-left {
+  width: 75%;
+
+  .chat-stat-div {
+    width: 100%;
+    padding: 0 2%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.home-right {
+  width: 20%;
+}

@@ -1,0 +1,57 @@
+.chat-stat {
+  border: 1px solid black;
+  border-radius: 6px;
+  height: 36vh;
+  width: 49%;
+}
+
+.chat-stat-headline {
+  border: 1px dashed black;
+  height: 10%;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chat-stat-attendance {
+  border: 1px dashed black;
+  height: 15%;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chat-stat-participants-cont {
+  border: 1px dashed black;
+  height: 70%;
+}
+
+.chat-stat-participant {
+  display: flex;
+  align-items: center;
+  padding-left: 2%;
+  font-size: 1.5rem;
+}
+
+.chat-stat-sex-icon {
+  font-size: 3rem;
+  margin-right: 2%;
+}
+
+.chat-stat-participant-name {
+  font-size: 1.5rem;
+  margin-right: 1%;
+}
+
+.chat-stat-participant-age {
+  font-size: 1.5rem;
+  margin-right: 1%;
+  color: red;
+}
+
+.chat-stat-participant-country {
+  font-size: 1.5rem;
+  color: green;
+}

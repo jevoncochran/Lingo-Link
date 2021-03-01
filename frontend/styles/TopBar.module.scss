@@ -1,0 +1,36 @@
+.top-bar {
+  border: 1px dashed black;
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  padding: 0 3%;
+  margin-bottom: 1%;
+}
+
+.top-bar-title {
+  //   border: 1px dashed black;
+  width: 10%;
+  font-size: 2rem;
+}
+
+.top-bar-select {
+  margin-right: 80%;
+  font-size: 1.5rem;
+}
+
+.top-bar-login-div {
+  //   border: 1px dashed black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 10%;
+}
+
+.top-bar-login-icon {
+  font-size: 5rem;
+  margin-right: 5%;
+}
+
+.top-bar-login-text {
+  font-size: 1.7rem;
+}
